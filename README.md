@@ -1,4 +1,4 @@
-<a href="https://instagram.com/newson_ceren"><img src="https://img.shields.io/badge/@newson_ce-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/@newson_ce-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 
 
